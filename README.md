@@ -4,7 +4,7 @@ This repository is for the Integrating With HubSpot I: Foundations course. This 
 
 To read the full directions, please go to the [practicum instructions](https://app.hubspot.com/academy/l/tracks/1092124/1093824/5493?language=en).
 
-**Put your HubSpot developer test account custom objects URL link here:** https://app.hubspot.com/contacts/l/objects/${custom-obj-number}/views/all/list
+**Put your HubSpot developer test account custom objects URL link here:** https://app-na2.hubspot.com/contacts/242429783/objects/2-166787136/views/all/list
 
 ___
 ## Tips:
@@ -21,8 +21,13 @@ ___
 - Using [Pug templating system](https://pugjs.org/api/getting-started.html)
 - Using the command line
 - Using [Git and GitHub](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+- Using [ Env ] ( https://www.npmjs.com/package/dotenv )
 
 ## Requirements
 - All work must be your own. During the grading process we will check the revision history. Submissions that do not meet this requirement will not be considered.
 - You must have at least two new routes in your index.js file and one new pug template for the homepage.
 - You must create a developer test account and link to it in your README.md file. Submissions that do not meet this requirement will not be considered.
+
+## Screenshot
+- home - https://242429783.fs1.hubspotusercontent-na2.net/hubfs/242429783/Screenshot%202025-04-02%20173116.png
+- form - https://242429783.fs1.hubspotusercontent-na2.net/hubfs/242429783/form.png
